@@ -3,7 +3,7 @@
 /**
  * factorial - returns the factorial of a number
  * @n: the given number
- * Return: if n is lower than 0 the function return -1, and calculate the fac otherwise
+ * Return: if n is lower than 0 the function return -1
  */
 int factorial(int n)
 {
